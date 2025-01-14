@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/Moibra3219/Moibra3219/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -36,7 +35,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-ibrahem-b24954152/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
